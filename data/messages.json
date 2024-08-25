@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Message from facebook",
+    "content": "Hey, how are you doing today?",
+    "received": "10 minutes ago"
+  },
+  {
+    "title": "Message from apple",
+    "content": "Hey, what you think about Iphone 20?",
+    "received": "1 minutes ago"
+  },
+  {
+    "title": "Message from google",
+    "content": "Hey all, how are you doing today?",
+    "received": "5 minutes ago"
+  }
+]
